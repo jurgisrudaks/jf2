@@ -1,0 +1,22 @@
+%module__filter {
+    ul {
+        list-style: none;
+        li {
+            display: inline-block;
+        }
+    }
+}
+
+%module__hover {
+    position: relative;
+    &:hover {
+        &::before {
+            position: absolute;
+            display: block;
+            content: '';
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 255, 255, .4);
+        }
+    }
+}
