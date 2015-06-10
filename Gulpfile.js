@@ -9,7 +9,9 @@ var gulp = require('gulp'),
     del = require('del'),
     handlebars = require('gulp-handlebars'),
     declare = require('gulp-declare'),
-    amdOptimize = require("amd-optimize");
+    amdOptimize = require("amd-optimize"),
+    wrap = require('gulp-wrap'),
+    merge = require('merge-stream');
 
 
 gulp.task('jshint', function () {
