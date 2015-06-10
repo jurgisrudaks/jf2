@@ -9,8 +9,6 @@ var gulp = require('gulp'),
     del = require('del'),
     handlebars = require('gulp-handlebars'),
     declare = require('gulp-declare'),
-    wrap = require('gulp-wrap'),
-    merge = require('merge-stream'),
     amdOptimize = require("amd-optimize");
 
 
