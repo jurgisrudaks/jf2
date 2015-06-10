@@ -16,13 +16,11 @@
     "gulp-requirejs": "^0.1.3",
     "gulp-scsslint": "0.0.5",
     "gulp-uglify": "^1.1.0",
-    "gulp-wrap": "^0.11.0",
     "jshint-stylish": "^1.0.0",
-    "merge-stream": "^0.1.7"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jurgisrudaks/brb.git"
+    "url": "https://github.com/jurgisrudaks/jf2.git"
   },
   "scripts": {
     "gulp": "gulp",
