@@ -63,5 +63,5 @@ To build just run
 $ npm run gulp
 ```
 
-[ci-image]: https://codeship.com/projects/cc880640-997e-0132-95ad-165733f17d49/status?branch=master
-[ci-url]: https://codeship.com/projects/63653
+[ci-image]: https://codeship.com/projects/b878b460-12d2-0133-3a96-7276a727d42f/status?branch=master
+[ci-url]: https://codeship.com/projects/92632
