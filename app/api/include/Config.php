@@ -2,4 +2,4 @@
 /**
  * Database configuration
  */
-define('DB_NAME', 'myspadb');
+define('DB_NAME', 'jf2');
