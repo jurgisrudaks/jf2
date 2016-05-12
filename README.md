@@ -1,5 +1,5 @@
 # JF2
-## Frontend framework [![Build status][ci-image]][ci-url]
+## Frontend framework
 ### Version
 0.0.1
 
